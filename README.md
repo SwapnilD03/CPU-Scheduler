@@ -41,12 +41,7 @@ It provides both **timeline (Gantt chart) visualizations** and **statistical met
 
 ---
 
-## 📊 Example Usage  
 
-### Input Format  
-Processes are defined in `parser.h` (or workload input file). Each process has:  
-- **Name**  
-- **Arrival Time**  
-- **Service Time**  
 
 Example:  
+
